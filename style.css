@@ -1,0 +1,68 @@
+body {
+    background-color: lightblue;
+}
+
+div.div {
+    text-align: center;
+}
+
+a.title {
+    color: orange;
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 25px;
+}
+
+div.div1 {
+    background-color: red;
+
+}
+img.img_al {
+    width: 125px;
+    height: 100px;
+}
+
+div.div2 {
+    background-color: orange;
+    text-align: center;
+}
+img.img_vlc {
+    width: 125px;
+    height: 100px;
+}
+
+div.div3 {
+    background-color: pink;
+    text-align: right;
+}
+img.img_cast {
+    width: 125px;
+    height: 100px;
+}
+
+p.web {
+    text-align: center;
+    background-color: white;
+    color: blue;
+}
+
+span.name {
+    color: red;
+}
+
+div.div4 {
+    background-color: white;
+    color: blue;
+}
+
+div.div5 {
+    background-color: coral;
+}
+
+div.div6 {
+
+}
+
+p.text {
+    color: white;
+    background-color: blue;
+}
